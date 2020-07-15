@@ -1,0 +1,1 @@
+/usr/bin/c++  -Os -O3 -DNDEBUG   CMakeFiles/main.dir/main.cpp.o  -o main /usr/lib/x86_64-linux-gnu/libarmadillo.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_iostreams.so /usr/lib/x86_64-linux-gnu/libboost_regex.so 
